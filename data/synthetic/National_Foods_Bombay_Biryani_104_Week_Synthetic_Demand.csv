@@ -1,0 +1,105 @@
+Week_Start_Date,Units_Sold,Unit_Price_PKR,Promotion_Flag,Notes
+2024-07-01,77846,145.00,0,
+2024-07-08,68358,146.45,0,
+2024-07-15,76289,145.00,0,
+2024-07-22,72503,143.55,0,Monsoon distribution softness
+2024-07-29,77083,143.55,0,Monsoon distribution softness
+2024-08-05,73875,145.00,0,Monsoon distribution softness
+2024-08-12,76039,145.00,0,Monsoon distribution softness
+2024-08-19,77827,143.55,0,Monsoon distribution softness
+2024-08-26,74169,146.45,0,Monsoon distribution softness
+2024-09-02,84542,145.00,0,
+2024-09-09,101413,136.30,1,Promotion / price-off
+2024-09-16,102523,139.20,1,Promotion / price-off
+2024-09-23,86974,146.45,0,
+2024-09-30,87514,145.00,0,
+2024-10-07,83501,143.55,0,
+2024-10-14,82913,145.00,0,
+2024-10-21,77799,145.00,0,
+2024-10-28,85645,143.55,0,
+2024-11-04,91671,145.00,0,Wedding / entertaining season
+2024-11-11,90243,143.55,0,Wedding / entertaining season
+2024-11-18,85296,143.55,0,Wedding / entertaining season
+2024-11-25,104324,137.75,1,Wedding / entertaining season; Promotion / price-off
+2024-12-02,98762,139.20,1,Wedding / entertaining season; Promotion / price-off
+2024-12-09,93448,145.00,0,Wedding / entertaining season
+2024-12-16,89270,146.45,0,Wedding / entertaining season
+2024-12-23,91907,143.55,0,Wedding / entertaining season
+2024-12-30,85343,151.50,0,Wedding / entertaining season; Price increase
+2025-01-06,89081,151.50,0,Wedding / entertaining season
+2025-01-13,92288,148.50,0,Wedding / entertaining season
+2025-01-20,87546,148.50,0,Wedding / entertaining season
+2025-01-27,98065,150.00,0,Wedding / entertaining season
+2025-02-03,85980,148.50,0,
+2025-02-10,90612,148.50,0,
+2025-02-17,91361,150.00,0,
+2025-02-24,85179,150.00,0,
+2025-03-03,126556,144.00,1,Ramadan demand uplift; Promotion / price-off
+2025-03-10,130610,138.00,1,Ramadan demand uplift; Promotion / price-off
+2025-03-17,132263,142.50,1,Ramadan demand uplift; Promotion / price-off
+2025-03-24,118683,142.50,1,Ramadan demand uplift; Promotion / price-off
+2025-03-31,116366,148.50,0,Eid-ul-Fitr week
+2025-04-07,84186,150.00,0,
+2025-04-14,84934,148.50,0,
+2025-04-21,83655,148.50,0,
+2025-04-28,89665,150.00,0,
+2025-05-05,83006,150.00,0,
+2025-05-12,78190,151.50,0,
+2025-05-19,89120,148.50,0,
+2025-05-26,97896,141.00,1,Promotion / price-off
+2025-06-02,95074,151.50,0,Eid-ul-Adha week
+2025-06-09,93129,150.00,0,Eid-ul-Adha week
+2025-06-16,88422,150.00,0,
+2025-06-23,83525,151.50,0,
+2025-06-30,81767,159.58,0,Price increase
+2025-07-07,87239,156.42,0,
+2025-07-14,80574,158.00,0,
+2025-07-21,78852,158.00,0,
+2025-07-28,81822,159.58,0,Monsoon distribution softness
+2025-08-04,76393,156.42,0,Monsoon distribution softness
+2025-08-11,81413,158.00,0,Monsoon distribution softness
+2025-08-18,87696,156.42,0,Monsoon distribution softness
+2025-08-25,83612,158.00,0,Monsoon distribution softness
+2025-09-01,87078,159.58,0,
+2025-09-08,108562,145.36,1,Promotion / price-off
+2025-09-15,98870,148.52,1,Promotion / price-off
+2025-09-22,90407,156.42,0,
+2025-09-29,90107,158.00,0,
+2025-10-06,89191,156.42,0,
+2025-10-13,90296,156.42,0,
+2025-10-20,87575,158.00,0,
+2025-10-27,94613,158.00,0,
+2025-11-03,101722,159.58,0,Wedding / entertaining season
+2025-11-10,101497,159.58,0,Wedding / entertaining season
+2025-11-17,97134,156.42,0,Wedding / entertaining season
+2025-11-24,116012,151.68,1,Wedding / entertaining season; Promotion / price-off
+2025-12-01,114725,150.10,1,Wedding / entertaining season; Promotion / price-off
+2025-12-08,105573,158.00,0,Wedding / entertaining season
+2025-12-15,108237,159.58,0,Wedding / entertaining season
+2025-12-22,98838,158.00,0,Wedding / entertaining season
+2025-12-29,85890,165.00,0,Wedding / entertaining season; Price increase
+2026-01-05,97731,166.65,0,Wedding / entertaining season
+2026-01-12,104819,165.00,0,Wedding / entertaining season
+2026-01-19,94993,166.65,0,Wedding / entertaining season
+2026-01-26,94455,165.00,0,Wedding / entertaining season
+2026-02-02,95085,165.00,0,
+2026-02-09,86072,165.00,0,
+2026-02-16,116118,158.40,1,Promotion / price-off
+2026-02-23,153866,156.75,1,Ramadan demand uplift; Promotion / price-off
+2026-03-02,144738,151.80,1,Ramadan demand uplift; Promotion / price-off
+2026-03-09,134116,155.10,1,Ramadan demand uplift; Promotion / price-off
+2026-03-16,111436,165.00,0,Ramadan demand uplift
+2026-03-23,127659,166.65,0,Eid-ul-Fitr week
+2026-03-30,95674,165.00,0,
+2026-04-06,94737,165.00,0,
+2026-04-13,93837,163.35,0,
+2026-04-20,96318,166.65,0,
+2026-04-27,97892,165.00,0,
+2026-05-04,93909,166.65,0,
+2026-05-11,102121,166.65,0,
+2026-05-18,112629,151.80,1,Promotion / price-off
+2026-05-25,110888,166.65,0,Eid-ul-Adha week
+2026-06-01,113836,163.35,0,Eid-ul-Adha week
+2026-06-08,87735,165.00,0,
+2026-06-15,89252,166.65,0,
+2026-06-22,86918,165.00,0,
